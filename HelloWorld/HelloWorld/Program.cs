@@ -20,8 +20,46 @@ namespace HelloWorld
             Console.WriteLine(ja);
             Console.WriteLine(nej);
 
+            if (age >= 18)
+            {
+                Console.WriteLine("Grattis, du kan ta körkort!");
+            }
+            else
+            {
+                Console.WriteLine("Bara ett år till lagligt snusköp!");
+            }
+
+            
+            var bil = 5;
+            switch (bil)
+            {
+                case 1:
+                    Console.WriteLine("Mercedes");
+                    break;
+                case 2:
+                    Console.WriteLine("BMW");
+                    break;
+                case 3:
+                    Console.WriteLine("Volvo");
+                    break;
+                case 4:
+                    Console.WriteLine("Mclaren");
+                    break;
+                case 5:
+                    Console.WriteLine("Polestar");
+                    break;
+            }
+
+            bool kör = Convert.ToBoolean(Console.ReadLine());
+
+            while (kör)
+            {
+                Console.WriteLine("koenigsegg jesko ser så fkn sexig ut!");
+            }
+
 
         }
     }
-}
+    }
+
 
