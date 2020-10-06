@@ -1,0 +1,13 @@
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\bin\Debug\netcoreapp3.1\reverseRot.exe
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\bin\Debug\netcoreapp3.1\reverseRot.deps.json
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\bin\Debug\netcoreapp3.1\reverseRot.runtimeconfig.json
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\bin\Debug\netcoreapp3.1\reverseRot.runtimeconfig.dev.json
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\bin\Debug\netcoreapp3.1\reverseRot.dll
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\bin\Debug\netcoreapp3.1\reverseRot.pdb
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\obj\Debug\netcoreapp3.1\reverseRot.csprojAssemblyReference.cache
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\obj\Debug\netcoreapp3.1\reverseRot.AssemblyInfoInputs.cache
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\obj\Debug\netcoreapp3.1\reverseRot.AssemblyInfo.cs
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\obj\Debug\netcoreapp3.1\reverseRot.csproj.CoreCompileInputs.cache
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\obj\Debug\netcoreapp3.1\reverseRot.dll
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\obj\Debug\netcoreapp3.1\reverseRot.pdb
+C:\Users\david.leisten\Documents\GitHub\prog\reverseRot\reverseRot\obj\Debug\netcoreapp3.1\reverseRot.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\bin\Debug\netcoreapp3.1\intro2.exe
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\bin\Debug\netcoreapp3.1\intro2.deps.json
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\bin\Debug\netcoreapp3.1\intro2.runtimeconfig.json
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\bin\Debug\netcoreapp3.1\intro2.runtimeconfig.dev.json
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\bin\Debug\netcoreapp3.1\intro2.dll
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\bin\Debug\netcoreapp3.1\intro2.pdb
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\obj\Debug\netcoreapp3.1\intro2.AssemblyInfoInputs.cache
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\obj\Debug\netcoreapp3.1\intro2.AssemblyInfo.cs
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\obj\Debug\netcoreapp3.1\intro2.csproj.CoreCompileInputs.cache
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\obj\Debug\netcoreapp3.1\intro2.dll
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\obj\Debug\netcoreapp3.1\intro2.pdb
+C:\Users\david.leisten\Documents\GitHub\prog\intro2\intro2\obj\Debug\netcoreapp3.1\intro2.genruntimeconfig.cache
